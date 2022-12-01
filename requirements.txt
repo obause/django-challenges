@@ -1,0 +1,20 @@
+# Libraries
+django
+
+# Testing
+pytest
+pre-commit
+
+# Linting
+flake8
+pylint
+mypy
+autopep8
+isort
+black
+
+# Documentation
+mkdocs
+mkdocstrings
+mkdocs-material
+Pygments
